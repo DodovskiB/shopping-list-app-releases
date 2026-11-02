@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.example.familyapp",
-  "versionCode": 18,
-  "versionName": "1.11.0-preview",
+  "versionCode": 19,
+  "versionName": "1.11.1-preview",
   "minSdk": 24,
   "certificateSha256": "FBBFF29D3F140E3D1701F463D18DF1F4A56DCFA56878EC543EBE9925EF23D542",
-  "apkUrl": "https://github.com/DodovskiB/shopping-list-app-releases/releases/download/v1.11.0-preview/Shopping-List-App-1.11.0-preview.apk",
-  "apkSha256": "A3C9BA68507B1ADF4924E85121B0D94640FEEF8AD2AA7EBAAD816B155DCD4689",
-  "notesEn": "Optional update notices and a manual update check. Existing lists and accounts are preserved.",
-  "notesMk": "Известување за нова верзија и рачна проверка за ажурирање. Постојните списоци и сметки се зачувуваат."
+  "apkUrl": "https://github.com/DodovskiB/shopping-list-app-releases/releases/download/v1.11.1-preview/Shopping-List-App-1.11.1-preview.apk",
+  "apkSha256": "C2F4A85BBE5CA4CB04103ECBFC868C1B4C4115D0A3D45043DBE46631A3F7F6F6",
+  "notesEn": "Compact Photo, Link and Edit menus; tap photos to enlarge; hold reorder handles before dragging. Background removal replaces the photo without an original backup.",
+  "notesMk": "Пократки менија Слика, Линк и Уреди; допир за зголемување слика; задржување на рачката за прередување. Отстранувањето позадина ја заменува сликата без копија од оригиналот."
 }
